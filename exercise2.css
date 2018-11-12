@@ -3,9 +3,14 @@
 }
 #about_blue {
   background-color: #6495ED;
+  margin: 20px 0px 0px 0px;
 }
 #about_yellow {
   background-color: #FFEBCD;
+  margin: 20px 0px 0px 0px;
+}
+#about_green {
+  background-color: light green;
   margin: 20px 0px 0px 0px;
 }
 #about_blue ul {
